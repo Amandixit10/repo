@@ -1,0 +1,26 @@
+
+  hr {
+    background-color: #e4f9f5;
+    border-style: none;
+    height: 2px;
+  }
+
+  body {
+  background: content-box radial-gradient(#cadefc,#e0f9b5);
+    display: block;
+    margin: 30px;
+  }
+h1
+ {
+color: #222831;
+border-width:  10px;
+
+ }
+ h2{
+   color: #222831;
+   border-width:  10px;
+ }
+h3{
+  color: #222831;
+  border-width:  10px;
+}
